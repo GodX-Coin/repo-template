@@ -1,1 +1,1 @@
-# repo-template
+# GodX-Coin repo-template
